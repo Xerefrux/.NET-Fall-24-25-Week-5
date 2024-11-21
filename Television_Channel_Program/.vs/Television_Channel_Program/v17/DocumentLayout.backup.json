@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\views\\channel\\channellist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\channel\\channellist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\controllers\\channelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\views\\channel\\deletechannel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\channel\\deletechannel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\views\\channel\\createchannel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\channel\\createchannel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|d:\\documents backup\\9th semester\\.net\\week 5\\television_channel_program\\television_channel_program\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\program\\programlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|d:\\documents backup\\9th semester\\.net\\week 5\\television_channel_program\\television_channel_program\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\controllers\\programcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|d:\\documents backup\\9th semester\\.net\\week 5\\television_channel_program\\television_channel_program\\views\\program\\createprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\program\\createprogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\views\\channel\\editchannel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\channel\\editchannel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|d:\\documents backup\\9th semester\\.net\\week 5\\television_channel_program\\television_channel_program\\customannotations\\channelannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\customannotations\\channelannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\views\\channel\\channeldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\views\\channel\\channeldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\television_channel_program\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{19FC4474-BBE9-4688-8002-E12ACBDEF53F}|Television_Channel_Program\\Television_Channel_Program.csproj|solutionrelative:television_channel_program\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramDTO.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\DTOs\\ProgramDTO.cs",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\DTOs\\ProgramDTO.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\DTOs\\ProgramDTO.cs",
+              "RelativeToolTip": "Television_Channel_Program\\DTOs\\ProgramDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:56:41.552Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChannelDTO.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\DTOs\\ChannelDTO.cs",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\DTOs\\ChannelDTO.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\DTOs\\ChannelDTO.cs",
+              "RelativeToolTip": "Television_Channel_Program\\DTOs\\ChannelDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:56:23.322Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChannelController.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Controllers\\ChannelController.cs",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Controllers\\ChannelController.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Controllers\\ChannelController.cs",
+              "RelativeToolTip": "Television_Channel_Program\\Controllers\\ChannelController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwHwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:23:43.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateChannel.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\CreateChannel.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Channel\\CreateChannel.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\CreateChannel.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Channel\\CreateChannel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T06:20:27.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChannelList.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\ChannelList.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Channel\\ChannelList.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\ChannelList.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Channel\\ChannelList.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T06:07:17.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteChannel.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\DeleteChannel.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Channel\\DeleteChannel.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\DeleteChannel.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Channel\\DeleteChannel.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T07:14:24.788Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgramController.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Controllers\\ProgramController.cs",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Controllers\\ProgramController.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Controllers\\ProgramController.cs",
+              "RelativeToolTip": "Television_Channel_Program\\Controllers\\ProgramController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAEwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:44:41.678Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramList.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Program\\ProgramList.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Program\\ProgramList.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Program\\ProgramList.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Program\\ProgramList.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T12:40:12.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProgram.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Program\\CreateProgram.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Program\\CreateProgram.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Program\\CreateProgram.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Program\\CreateProgram.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T12:53:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditChannel.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\EditChannel.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Channel\\EditChannel.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\EditChannel.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Channel\\EditChannel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T06:47:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChannelAnnotations.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\CustomAnnotations\\ChannelAnnotations.cs",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\CustomAnnotations\\ChannelAnnotations.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\CustomAnnotations\\ChannelAnnotations.cs",
+              "RelativeToolTip": "Television_Channel_Program\\CustomAnnotations\\ChannelAnnotations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:31:04.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChannelDetails.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\ChannelDetails.cshtml",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\Views\\Channel\\ChannelDetails.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\Views\\Channel\\ChannelDetails.cshtml",
+              "RelativeToolTip": "Television_Channel_Program\\Views\\Channel\\ChannelDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T06:35:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Television_Channel_Program\\EF\\Model1.edmx",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 5\\Television_Channel_Program\\Television_Channel_Program\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Television_Channel_Program\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-20T05:54:06.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

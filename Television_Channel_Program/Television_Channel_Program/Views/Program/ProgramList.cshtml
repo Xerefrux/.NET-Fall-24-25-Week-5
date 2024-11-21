@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "ProgramList";
+}
+
+<h2>ProgramList</h2>
+@if (TempData["Msg"] != null)
+{
+    <span class="alert alert-info">@TempData["Msg"]</span>
+}
+@if (Model.Count == 0)
+{
+    <h3>No Data</h3>
+}
+
+else
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Program Id</th>
+            <th>Program Name</th>
+            <th>TRP Score</th>
+            <th>Channel Id</th>
+            <th>Air Time</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProgramId</td>
+                <td>@item.ProgramName</td>
+                <td>@item.TRPScore</td>
+                <td>@item.ChannelId</td>
+                <td>@item.AirTime</td>
+                <td>
+                    <a href="/program/editprogram/@item.ProgramId" class="btn btn-info">Edit</a>
+                    <a href="/program/deleteprogram/@item.ProgramId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+
+</table>
+}
+
+<a class="btn btn-info" href="/program/createprogram">Create</a>

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "DeleteChannel";
+}
+
+<h2>DeleteChannel</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Channel Id</th>
+        <th>Channel Name</th>
+        <th>Established Year</th>
+        <th>Country</th>
+    </tr>
+    <tr>
+        <td>@Model.ChannelId</td>
+        <td>@Model.ChannelName</td>
+        <td>@Model.EstablishedYear</td>
+        <td>@Model.Country</td>
+    </tr>
+</table>
+<span>
+    <b>Are you sure you want to delete?</b>
+</span>
+<form method="post">
+    <input type="hidden" name="ChannelId" value="@Model.ChannelId" />
+    <input type="submit" value="Yes" name="dcsn" class="btn btn-danger" />
+    <input type="submit" value="No" name="dcsn" class="btn btn-warning" />
+</form>
+
+
